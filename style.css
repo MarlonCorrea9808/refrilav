@@ -15,6 +15,26 @@ body{
     background-position:center;
     color:white;
 }
+.btn-whatsapp{
+    display:inline-block;
+    margin-top:30px;
+    background:#25D366;
+    color:white;
+    padding:18px 35px;
+    border-radius:50px;
+    text-decoration:none;
+    font-size:1.2rem;
+    font-weight:700;
+    transition:.3s;
+}
+
+.btn-whatsapp:hover{
+    transform:scale(1.05);
+
+    box-shadow:
+        0 0 20px #25D366,
+        0 0 40px #25D366;
+}
 
 /* HERO */
 
